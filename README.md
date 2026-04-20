@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 Information Engineering student with a strong focus on Data Analysis and logical problem-solving.
+* 🚀 Computer Engineer with a strong focus on Data Analysis and logical problem-solving.
 * 💡 Actively training in Data Science and Artificial Intelligence to build data-driven solutions.
 * 🎯 Mission: Transform raw data into clear, actionable insights while maintaining solid software engineering practices.
 * 🌱 Currently seeking professional internship opportunities to apply analytical skills in real-world scenarios.
